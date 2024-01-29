@@ -1,0 +1,12 @@
+names:
+- fish
+- jellyfish
+- penguin
+- puffin
+- shark
+- starfish
+- stingray
+nc: 7
+test: C:/Users/MJ/Desktop/Project/Prostate_USG/aquarium_data/aquarium_data/valid/images/
+train: C:/Users/MJ/Desktop/Project/Prostate_USG/aquarium_data/train/images/
+val: C:/Users/MJ/Desktop/Project/Prostate_USG/aquarium_data/valid/images/
